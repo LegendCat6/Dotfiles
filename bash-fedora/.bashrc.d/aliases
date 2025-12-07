@@ -5,8 +5,6 @@ export EDITOR="$VISUAL"
 # Aliases
 alias vim="nvim"
 alias vi="nvim"
-alias vpn-up="tailscale set --exit-node=us-chi-wg-301.mullvad.ts.net --exit-node-allow-lan-access=true"
-alias vpn-down="tailscale set --exit-node="
 
 # Functions
 function y() {
